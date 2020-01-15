@@ -1,0 +1,1 @@
+This is an old project, old enough to be programmed using BASIC language. The code did work, but is hard to read nowadays. I will add here a link to a description in more detail, when my website is up and running.
